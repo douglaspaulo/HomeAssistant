@@ -26,7 +26,7 @@ Automação é um sistema que emprega processos automáticos que comandam e cont
 ### Software necessário:
 
 * Imagem Hassio para Raspberry Pi 3
-* Software Etcher para gravar a imagem em um cartão MicroSD;
+* Software [Etcher](https://etcher.io/) para gravar a imagem em um cartão MicroSD;
 * Editor de texto, por exemplo Visual Studio Code.
 
 

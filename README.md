@@ -34,12 +34,12 @@ Automação é um sistema que emprega processos automáticos que comandam e cont
 
 1.	Insira o MicroSD no adaptador SD e insira no leitor de SD do seu computador
 2.	Abra o Etcher, selecione a imagem do Hass.io que foi baixada, selecione o cartão SD e clique em “Flash”. Isto gravará a imagem do Hass.io no cartão (leva mais ou menos 6 minutos).
-3.	Para configurar o WiFi, quando o processo terminar, remova com segurança o cartão e o insira novamente no leitor, abra o arquivo system-connections/resin-sample com o Visual Studio Code. Modifique o parâmetro ssid informando o SSID da sua rede WiFi e o campo psk informando a senha da sua rede.
+3.	Para configurar o WiFi, quando o processo terminar, remova com segurança o cartão e o insira novamente no leitor, abra o arquivo `system-connections/resin-sample` com o Visual Studio Code. Modifique o parâmetro `ssid` informando o SSID da sua rede WiFi e o campo `psk` informando a senha da sua rede.
 4.	Remova com segurança o cartão do computador, retire o MicroSD e insira-o na sua Raspberry Pi 3. Se estiver usando uma conexão a cabo com seu roteador, conecte este nela também.
-5.	Conecte sua Raspberry Pi 3 na energia e aguarde a inicialização.
-6.	Sua Raspberry Pi 3 irá dar o boot, se conectar à internet e baixar a última versão  do Home Assistant, isto demora em média 20 minutos, vá tomar um café e olhar seu Whatsapp.
+5.	Conecte sua Raspberry na energia e aguarde a inicialização.
+6.	Sua Raspberry Pi irá dar o boot, se conectar à internet e baixar a última versão  do Home Assistant, isto demora em média 20 minutos, vá tomar um café e olhar seu Whatsapp.
 7.	O Home Assistant estará disponível através do endereço http://hassio.local:8123.
-8.	Acessando o endereço do seu Home Assistant, você verá esta tela, aproveite para dar uma olhada na página de componentes do Home Assistant e se interar com as milhares de possibilidades de automações para sua residência. Aguarde o término da instalação.
+8.	Acessando o endereço do seu Home Assistant, você verá esta tela, aproveite para dar uma olhada na página de [componentes do Home Assistant](https://home-assistant.io/components/#featured) e se interar com as milhares de possibilidades de automações para sua residência. Aguarde o término da instalação.
 
 
 

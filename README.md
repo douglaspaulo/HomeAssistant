@@ -25,9 +25,9 @@ Automação é um sistema que emprega processos automáticos que comandam e cont
 
 ### Software necessário:
 
-* Imagem [Hass.io para Raspberry Pi 3](https://github.com/home-assistant/hassio-build/releases/download/1.1/resinos-hassio-1.1-raspberrypi3.img.bz2)
+* Imagem [Hass.io para Raspberry Pi 3](https://github.com/home-assistant/hassio-build/releases/download/1.1/resinos-hassio-1.1-raspberrypi3.img.bz2);
 * Software [Etcher](https://etcher.io/) para gravar a imagem em um cartão MicroSD;
-* Editor de texto, por exemplo Visual Studio Code.
+* Editor de texto, por exemplo [Visual Studio Code](https://code.visualstudio.com/).
 
 
 ## Vamos à instalação:
